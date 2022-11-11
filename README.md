@@ -1,2 +1,2 @@
 # ClusteringSimilarity
-Check the similarity of clustering
+教師なし文書クラスタリングの手法の精度を比較しました
