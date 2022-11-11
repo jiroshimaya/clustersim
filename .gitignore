@@ -1,6 +1,8 @@
 output/*
 text/*
 fasttext/*
+.DS_Store
+embedding/
 
 
 # Byte-compiled / optimized / DLL files
